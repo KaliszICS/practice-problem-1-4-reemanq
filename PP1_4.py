@@ -13,7 +13,7 @@ def q2():
 def q3():
     b = input("Input your first name: ")
     c = input("Input your last name: ")
-    print(f"{b} {c}")
+    print(f"{c} {b}")
   #Write Assignment code here
 
 def q4():

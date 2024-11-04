@@ -1,25 +1,25 @@
 
 
 def q1():
-    input("Input a word: ")
-    print("word: " + answer)
+    a = input("Input a word: ")
+    print(a)
   #Write Assignment code here
 
 def q2():
-    input("Input your first name: ")
+    answer = input("Input your first name: ")
     print("Hello " + answer)
   #Write Assignment code here
 
 def q3():
-    input("Input your first name: ")
-    input("Input your last name: ")
-    print("name: " + answer + answer)
+    b = input("Input your first name: ")
+    c = input("Input your last name: ")
+    print(f"{b} {c}")
   #Write Assignment code here
 
 def q4():
-    input("Input a student: ")
-    input("Input another student: ")
-    print("Your students are _student1_: " + answer and "_student2_: " + answer)
+    student1 = input("Input a student: ")
+    student2 = input("Input another student: ")
+    print(f"Your students are {student1} and {student2}")
   #Write Assignment code here
 
 #Comment Out the go below when you run your test cases.

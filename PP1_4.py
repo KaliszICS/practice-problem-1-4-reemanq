@@ -2,7 +2,7 @@
 
 def q1():
     a = input("Input a word: ")
-    print(a)
+    print("name: " + a)
   #Write Assignment code here
 
 def q2():
